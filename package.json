@@ -1,0 +1,27 @@
+{
+  "name": "vue-editor-lesson",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1",
+    "deepcopy": "^2.1.0",
+    "element-plus": "^2.7.0",
+    "mitt": "^3.0.1",
+    "ncu": "^0.2.1",
+    "vue": "^3.4.21",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "@vue/compiler-sfc": "^3.4.21",
+    "sass": "^1.75.0",
+    "sass-loader": "^14.2.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
